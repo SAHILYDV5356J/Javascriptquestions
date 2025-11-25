@@ -26,3 +26,17 @@ for(let i=1;i<=n;i++){
 }
 
 console.log(sum);
+
+
+
+
+
+// printing element in an array using for loop
+
+const arr= [1,2,3,4,5,56];
+
+for(let i=0;i<arr.length;i++){
+    console.log(arr[i]+" ");
+}
+
+
