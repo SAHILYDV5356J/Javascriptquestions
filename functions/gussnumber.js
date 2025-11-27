@@ -1,6 +1,6 @@
 function guess(rdm){
 
-     let input=prompt("enter a number {0-10}");
+     let input=prompt("enter a number {0-100}");
      while(input!=rdm){
           
           if(Number(input)<rdm){
